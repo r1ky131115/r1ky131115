@@ -7,10 +7,10 @@
 const Ricardo = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
-    code: [Javascript, C#, Python, HTML, CSS],
+    code: [C# .NET, Javascript, Python, HTML, CSS],
     tools: [React],
     databases: ["Mongo", "MySql", "sqlite", "MariaDB"],
-    Operating Systems: Windows,
+    Operating Systems: Windows, Linux
     challenge: "I am doing the FreeCodeCamp challenge focused on web development"
 };
 ```
