@@ -82,13 +82,22 @@ const Ricardo = {
     </a>
 </p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1ky131115&show_icons=true&locale=en&layout=compact" alt="r1ky131115" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1ky131115&show_icons=true&locale=en" alt="r1ky131115" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1ky131115&" alt="r1ky131115" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ricardo-luis-aguirre-402b08179/?locale=en_us" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ricardo-luis-aguirre-402b08179/?locale=en_us" height="30" width="40" />
     </a>
 </p>
+
+<br/ >
+<div>
+    <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1ky131115&show_icons=true&locale=en&layout=compact" alt="r1ky131115" /></p>    
+</div>
+
+<div>
+    <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1ky131115&show_icons=true&locale=en" alt="r1ky131115" /></p>
+</div>
+
+<div>
+    <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1ky131115&" alt="r1ky131115" /></p>
+</div>
