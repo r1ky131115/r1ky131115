@@ -91,14 +91,21 @@ const Ricardo = {
 
 <br />
 
-<div>
-    <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1ky131115&show_icons=true&locale=en&layout=compact" alt="r1ky131115" /></p>    
-</div>
-
-<div>
-    <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1ky131115&show_icons=true&locale=en" alt="r1ky131115" /></p>
-</div>
-
-<div>
-    <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1ky131115&" alt="r1ky131115" /></p>
-</div>
+<table>
+    <tr>
+        <td>
+            <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1ky131115&show_icons=true&locale=en&layout=compact" alt="r1ky131115" />
+            </p>
+        </td>
+        <td>
+            <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1ky131115&show_icons=true&locale=en" alt="r1ky131115" />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1ky131115&" alt="r1ky131115" />
+            </p>
+        </td>    
+    </tr>
+</table>
