@@ -8,7 +8,7 @@ const Ricardo = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     code: [C# .NET, Javascript, Python, HTML, CSS],
-    tools: [React],
+    tools: [React, Bootstrap, Tailwind],
     databases: ["Mongo", "MySql", "sqlite", "MariaDB"],
     Operating Systems: Windows, Linux
     challenge: "I am doing the FreeCodeCamp challenge focused on web development"
